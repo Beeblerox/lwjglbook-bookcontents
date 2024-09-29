@@ -6,7 +6,7 @@ LWJGL is a low level API that acts like a wrapper around OpenGL. Therefore, if y
 
 Regarding Java, you will need at least Java 17. So the first step, in case you do not have that version installed, is to download the Java SDK. You can download the OpenJDK binaries [here](https://jdk.java.net/17/). In any case, this book assumes that you have a moderate understanding of the Java language. If this is not your case, you should first get proper knowledge of the language.
 
-The best way to work with the examples is to clone the Github repository. You can either download the whole repository as a zip and extract in in your desired folder or clone it by using the following command: `git clone https://github.com/lwjglgamedev/lwjglbook.git`. In bot cases you will have a root folder which contains one sub folder per chapter.
+The best way to work with the examples is to clone the Github repository. You can either download the whole repository as a zip and extract in in your desired folder or clone it by using the following command: `git clone https://github.com/lwjglgamedev/lwjglbook.git`. In both cases you will have a root folder which contains one sub folder per chapter.
 
 You may use the Java IDE you want in order to run the samples. You can download IntelliJ IDEA which has good support for Java. IntelliJ provides a free open source version, the Community version, which you can download from here: [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/ "IntelliJ").
 
